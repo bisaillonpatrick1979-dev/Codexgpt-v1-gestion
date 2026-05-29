@@ -1,3 +1,4 @@
+import './card-title-optimizer.js';
 function sdLoad(){try{return JSON.parse(localStorage.getItem('codex-data')||'{}')}catch{return {}}}
 function sdText(v){return String(v||'').trim()}
 function sdUnique(a){return [...new Set(a.map(sdText).filter(Boolean))].slice(0,80)}
