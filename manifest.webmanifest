@@ -1,0 +1,14 @@
+{
+  "name": "CodexGPT Gestion",
+  "short_name": "CodexGestion",
+  "description": "Application multi-entreprise pour gestion de chantier, administration, employés, punch, factures et statistiques.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "orientation": "portrait-primary",
+  "lang": "fr-CA",
+  "categories": ["business", "productivity", "finance"],
+  "icons": []
+}
