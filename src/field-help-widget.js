@@ -1,3 +1,4 @@
+import './money-widget.js';
 function fhLoad(){return JSON.parse(localStorage.getItem('codex-data')||'{}')}
 function fhSave(d){localStorage.setItem('codex-data',JSON.stringify(d))}
 function drawFieldHelp(){
